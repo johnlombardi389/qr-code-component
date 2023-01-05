@@ -67,4 +67,13 @@ main .qr-container .text-box p {
     width: 100%;
     height: auto;
   }
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  padding: 2rem;
 }/*# sourceMappingURL=style.css.map */
