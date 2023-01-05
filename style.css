@@ -12,11 +12,13 @@ body {
 h1 {
   font-weight: 700;
   font-size: 1.2rem;
+  color: hsl(218deg, 44%, 22%);
 }
 
 p {
   font-weight: 400;
   font-size: 1rem;
+  color: hsl(220deg, 15%, 55%);
 }
 
 main {
@@ -26,25 +28,43 @@ main {
   left: 50%;
   transform: translate(-50%, -50%);
   width: 75vw;
-  height: 75vh;
+  height: 50vh;
   display: flex;
   align-items: center;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  padding: 2rem;
 }
 main .qr-container {
   background: hsl(0deg, 0%, 100%);
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
   border-radius: 1rem;
   margin: auto;
+  padding: 1.5rem;
+  width: 300px;
+  height: 500px;
 }
 main .qr-container img {
   border-radius: 1rem;
-  margin-top: 2rem;
 }
 main .qr-container .text-box {
   text-align: center;
-  margin: 2rem 0rem;
+}
+main .qr-container .text-box h1 {
+  margin: 2rem 0 1rem 0;
+}
+main .qr-container .text-box p {
+  width: 75%;
+  margin: 0 auto 1rem auto;
+}
+@media (max-width: 650px) {
+  main {
+    padding: 0.75rem;
+  }
+  main .qr-container {
+    padding: 0.75rem;
+    width: 100%;
+    height: auto;
+  }
 }/*# sourceMappingURL=style.css.map */
