@@ -6,6 +6,7 @@
 
 body {
   font-family: "Outfit", sans-serif;
+  background-image: url(/images/colored_shapes.svg);
 }
 
 h1 {
@@ -16,4 +17,31 @@ h1 {
 p {
   font-weight: 400;
   font-size: 1rem;
+}
+
+main {
+  background: hsl(212deg, 45%, 89%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 75vw;
+  height: 75vh;
+  margin: 0 auto;
+}
+main .qr-container {
+  background: hsl(0deg, 0%, 100%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 1rem;
+  margin: 0 2rem;
+}
+main .qr-container img {
+  border-radius: 1rem;
+  margin-top: 2rem;
+}
+main .qr-container .text-box {
+  text-align: center;
+  margin: 2rem 0rem;
 }/*# sourceMappingURL=style.css.map */
