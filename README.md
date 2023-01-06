@@ -19,7 +19,6 @@ This project aims to build a QR code component that matches a given design as cl
 ### Links
 
 - Live Site URL: [QR Code Component](https://johnlombardi389.github.io/qr-code-component/)
-- Solution URL: [Challenge Submission](https://your-solution-url.com)
 
 ## My process
 
@@ -59,6 +58,7 @@ John Lombardi
 - [Portfolio](https://johnlombardi389.github.io/portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/johnlombardi389/)
 - [GitHub](https://github.com/johnlombardi389)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/johnlombardi389)
 
 ## Credits
 
