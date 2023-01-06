@@ -58,6 +58,7 @@ John Lombardi
 
 - [Portfolio](https://johnlombardi389.github.io/portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/johnlombardi389/)
+- [GitHub](https://github.com/johnlombardi389)
 
 ## Credits
 
