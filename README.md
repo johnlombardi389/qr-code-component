@@ -1,6 +1,6 @@
 # QR Code Component
 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+![Screenshot](./images/QR_Screenshot.png)
 
 ## Table of contents
 
