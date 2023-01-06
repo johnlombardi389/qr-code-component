@@ -9,14 +9,12 @@
 - [My process](#my-process)
   - [Tools](#tools)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Credits](#credits)
 
 ## Overview
 
-This project aims to build a QR code component that matches a given design as closely as possible. It was built using html and sass, along with git for version control. This is my solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+This project aims to build a QR code component that matches a given design as closely as possible. It was built using html and sass, along with git for version control. This is my solution to the QR code component challenge on Frontend Mentor.
 
 ### Links
 
@@ -39,7 +37,7 @@ This project aims to build a QR code component that matches a given design as cl
 - Using Sass variables
 - Apply my skills in HTML, CSS, and Sass, to help become more proficient as a web developer
 
-A few examples:
+Example from the project:
 
 ```css
 $dark_blue: hsl(218, 44%, 22%);
@@ -53,3 +51,13 @@ h1 {
   color: $dark_blue;
 }
 ```
+
+## Author
+
+- [John Lombardi Portfolio](https://johnlombardi389.github.io/portfolio/)
+- [LinkedIn](https://www.linkedin.com/in/johnlombardi389/)
+
+## Credits
+
+QR Code from [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+SVG Background from [BGJar](https://bgjar.com/%22%3EBGJar)
