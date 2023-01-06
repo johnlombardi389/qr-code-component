@@ -54,10 +54,12 @@ h1 {
 
 ## Author
 
-- [John Lombardi Portfolio](https://johnlombardi389.github.io/portfolio/)
+John Lombardi
+
+- [Portfolio](https://johnlombardi389.github.io/portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/johnlombardi389/)
 
 ## Credits
 
-QR Code from [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
-SVG Background from [BGJar](https://bgjar.com/%22%3EBGJar)
+- QR Code from [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+- SVG Background from [BGJar](https://bgjar.com/%22%3EBGJar)
